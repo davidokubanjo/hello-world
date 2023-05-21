@@ -34,5 +34,7 @@
    <h1> Thank you, This makes Sense, Projects Make sense  </h1>
 
    <h1> Added this new line to Poll SCM in Tomcat  </h1>
+
+   <h1> We also want to be making over $100 an hour  </h1>
   
 </form>
