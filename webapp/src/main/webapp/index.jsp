@@ -1,12 +1,21 @@
-<!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<h1>This is Ibukun's Test: Test 1 Test 2 Test 3 </h1>
+<h2>An Unordered HTML List</h2>
 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 
 </body>
 </html>
